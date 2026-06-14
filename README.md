@@ -11,6 +11,7 @@
 ---
 
 <!-- SECTION 3: CODE-BLOCK ABOUT ME -->
+```python
 class Developer:
     def __init__(self):
         self.name = "Senthil Arun M"
