@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Senthil%20Arun%20M&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Python%20%26%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/senthilarunm">
+<a href="https://github.com/senthilarun92">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Senthil+Arun+M+%F0%9F%91%8B;Computer+Science+%26+Engineering+Graduate;Python+Developer+%7C+Flask+%7C+Machine+Learning;Building+AI-Powered+Web+Applications;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=senthilarunm&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=senthilarun92&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/LOCATION-Tiruchendur%2C%20Tamil%20Nadu-8b5cf6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Work-success?style=for-the-badge)
 
@@ -158,14 +158,14 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senthilarunm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilarunm&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=senthilarun92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilarun92&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilarunm&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilarun92&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
@@ -175,7 +175,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=senthilarunm&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=senthilarun92&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -185,7 +185,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilarunm&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilarun92&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -198,10 +198,10 @@ me.say_hi()
 <a href="mailto:senthilarun72@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/senthilarunm">
+<a href="https://www.linkedin.com/in/senthilarun92">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/senthilarunm">
+<a href="https://github.com/senthilarun92">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
