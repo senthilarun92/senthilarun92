@@ -1,6 +1,6 @@
 <!-- SECTION 1: HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SENTHIL%20ARUN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate+Software+Developer+&descAlignY=62&descSize=16" alt="Senthil Arun M Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SENTHIL%20ARUN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate+Software+Developer&descAlignY=62&descSize=16" alt="Senthil Arun M Banner" />
 </p>
 
 <!-- SECTION 2: TYPING HEADER -->
