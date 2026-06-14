@@ -18,23 +18,6 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SenthilArunM:
-    def __init__(self):
-        self.role = "Computer Science & Engineering Graduate"
-        self.location = "Tiruchendur, Tamil Nadu, India"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.interests = ["Web Development", "Machine Learning", "AI Applications"]
-        self.currently_learning = "Advanced Machine Learning & Full Stack Development"
-        self.fun_fact = "I turn ideas into working web apps and ML pipelines!"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile — let's build something great together!")
-
-me = SenthilArunM()
-me.say_hi()
-```
-
 - 🎓 Currently pursuing **B.E. in Computer Science and Engineering** (2022 – 2026)
 - 🐍 Strong foundation in **Python, Web Development, and Problem-Solving**
 - 🤖 Hands-on experience building **web applications and machine learning projects**
