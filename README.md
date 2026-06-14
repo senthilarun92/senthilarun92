@@ -1,8 +1,16 @@
-# SENTHIL ARUN M
+<!-- SECTION 1: HERO BANNER -->
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SENTHIL%20ARUN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate+Software+Developer&descAlignY=62&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SENTHIL%20ARUN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate+Software+Developer&descAlignY=62&descSize=16)" alt="Senthil Arun M Banner" />
+</p>
 
-Passionate Software Developer
+<!-- SECTION 2: TYPING HEADER -->
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+%2B+Flask+Developer;Building+AI-Powered+Applications;Computer+Science+Graduate;Open+Source+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+%2B+Flask+Developer;Building+AI-Powered+Applications;Computer+Science+Graduate;Open+Source+Enthusiast)" alt="Typing Animation" />
+</p>
+
 ---
 
+<!-- SECTION 3: CODE-BLOCK ABOUT ME -->
 ```python
 class Developer:
     def __init__(self):
@@ -12,25 +20,10 @@ class Developer:
         self.degree = "B.E. in Computer Science and Engineering"
         self.stack = ["Python", "JavaScript", "Flask", "SQL", "HTML5/CSS3"]
         self.currently_learning = ["Advanced Java", "Deep Learning Architectures"]
+        self.fun_fact = "I reduced speech-to-text manual effort by 30% using Web Speech APIs!"
 
-me = Developer(
----
+    def motto(self):
+        return "Optimizing code execution, one script at a time."
 
-<h3 align="center">🛠️ Technical Ecosystem</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Git-analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senthilarun92&show_icons=true&theme=tokyonight&count_private=true" alt="Senthil's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilarun92&layout=compact&theme=tokyonight" alt="Senthil's Top Languages" height="180" />
-</p>
-)
-'''
+me = Developer()
+print(me.motto())
